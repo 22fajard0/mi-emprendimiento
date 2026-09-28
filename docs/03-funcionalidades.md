@@ -2,6 +2,17 @@
 
 > Guía: [Objetivos del usuario y funcionalidades](../evaluacion/guias/fase-1-requerimientos/03-funcionalidades.md)
 
+## Objetivos de la proto-persona en el sitio
+
+<!-- Qué quiere lograr tu proto-persona cuando entra a tu sitio.
+Revisa sus necesidades y frustraciones: ahí suelen estar los objetivos. -->
+
+1.
+2.
+3.
+
+## Funcionalidades
+
 <!-- Incluye las 7 funcionalidades base y al menos 5 propias.
 Redáctalas como "El usuario debe poder...".
 Prioridad: Imprescindible / Deseable / Futuro. -->

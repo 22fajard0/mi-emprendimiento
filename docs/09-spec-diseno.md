@@ -37,6 +37,8 @@ Ver [08-color-tipografia.md](08-color-tipografia.md).
 
 ## 4. Responsive
 
-| Elemento | Desktop | Mobile |
-|---|---|---|
-| | | |
+<!-- Mobile hasta 767 px · Tablet de 768 a 1023 px · Desktop desde 1024 px -->
+
+| Elemento | Desktop | Tablet | Mobile |
+|---|---|---|---|
+| | | | |
