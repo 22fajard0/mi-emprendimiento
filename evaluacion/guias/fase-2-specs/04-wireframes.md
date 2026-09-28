@@ -65,6 +65,10 @@ Wireframe de la tienda de Brote, en texto:
 └──────────────────────────────────────────────┘
 ```
 
+Y las 6 pantallas de Brote, más la versión mobile de la landing y la tienda. Los números marcan los pasos del flujo de compra: si un paso no tiene botón o enlace, falta algo.
+
+![Wireframes de Brote: landing, tienda, ficha de producto, carrito, blog y artículo](../img/brote-wireframes.png)
+
 ## Errores comunes
 
 - **Diseñar con colores y fotos**: en esta etapa, solo grises y cajas.

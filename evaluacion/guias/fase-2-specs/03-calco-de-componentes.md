@@ -65,6 +65,10 @@ Para cada uno, anota en el Markdown de dónde lo sacaste, qué contiene y qué n
 | Resumen del carrito | Sitio de tienda de libros G | Productos, calculadora de despacho por comuna, total, botón | No se lleva sorpresas en el precio final |
 ```
 
+Así se ven esos componentes calcados en grises:
+
+![Componentes calcados de Brote: navbar, hero, formulario de leads, product card, filtros, card de artículo, guía de uso y resumen del carrito](../img/brote-componentes-calcados.png)
+
 ## Cómo usar la IA
 
 ```text

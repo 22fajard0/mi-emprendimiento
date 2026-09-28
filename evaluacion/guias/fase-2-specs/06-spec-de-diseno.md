@@ -125,6 +125,10 @@ Escala: 4 · 8 · 16 · 24 · 32 · 48 · 64 px.
 | Hero | Texto e imagen lado a lado | Imagen arriba, texto abajo |
 ```
 
+Así se ven la product card, los botones, los chips y los campos de texto de Brote con sus foundations y estados. Fíjate en la regla del nombre: si ocupa más de 2 líneas, termina en "…".
+
+![Componentes de Brote con estilo y estados: product card, botones, chips y campo de texto](../img/brote-componentes-con-estilo.png)
+
 ## Cómo usar la IA
 
 ```text
