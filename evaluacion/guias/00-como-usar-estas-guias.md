@@ -25,6 +25,7 @@ No copies el ejemplo: úsalo para entender qué se espera y aplícalo a tu empre
 ### Antes de empezar
 
 - [Preparar el repositorio](01-preparar-el-repositorio.md)
+- [Guía de Markdown](02-guia-de-markdown.md): qué es un archivo `.md` y qué significa cada símbolo
 
 ### Fase 1 — Definición de requerimientos (entrega: lunes 5 de octubre, 23:59)
 

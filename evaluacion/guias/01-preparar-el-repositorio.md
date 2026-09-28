@@ -58,6 +58,8 @@ El `README.md` de la raíz es la portada de tu proyecto. Reemplaza lo que está 
 
 Trabaja en `docs/01-brief.md` a `docs/05-arquitectura.md`, siguiendo las guías de la Fase 1. Las imágenes (avatar, mapa de sitio) van en `docs/img/`.
 
+Los documentos se escriben en Markdown. Si es primera vez que lo usas, revisa antes la [Guía de Markdown](02-guia-de-markdown.md).
+
 ### 5. Haz commits y súbelos
 
 Haz un commit cada vez que termines una parte, no todo al final:
