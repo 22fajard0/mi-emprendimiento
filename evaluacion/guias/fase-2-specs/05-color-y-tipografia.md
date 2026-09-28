@@ -115,6 +115,10 @@ uso sin esfuerzo en su celular.
 
 Fíjate en la última fila: el terracota no alcanza 4.5:1, así que en Brote solo se usa para etiquetas con texto grande en negrita o para íconos, nunca para párrafos. Verificar el contraste no es solo aprobar o reprobar un color: te dice **dónde** puedes usarlo.
 
+Así se ve el ejemplo como lámina, que puedes armar en Whimsical, Canva o Figma para presentar tu paleta:
+
+![Lámina de color y tipografía de Brote](../img/brote-color-y-tipografia.png)
+
 ## Cómo usar la IA
 
 ```text

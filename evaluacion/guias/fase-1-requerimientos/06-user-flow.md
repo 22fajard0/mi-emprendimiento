@@ -81,6 +81,10 @@ Google ("hojas amarillas monstera")
           → Fin: lead captado
 ```
 
+Los mismos flujos, dibujados como diagrama:
+
+![User flows de Camila: flujo de compra y flujo de contenido](../img/brote-user-flows.png)
+
 ## Cómo usar la IA
 
 ```text

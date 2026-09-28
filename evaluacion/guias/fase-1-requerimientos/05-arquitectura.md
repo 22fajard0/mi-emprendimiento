@@ -72,6 +72,10 @@ Inicio (landing)
 
 Fíjate que las categorías de la tienda y del blog **no son páginas distintas**: en la Fase 3 serán la misma página de tienda o de blog, filtrada.
 
+El mismo mapa de sitio, dibujado como diagrama:
+
+![Mapa de sitio de Brote: inicio, tienda, blog y páginas obligatorias](../img/brote-mapa-de-sitio.png)
+
 ## Cómo usar la IA
 
 ```text
