@@ -75,7 +75,7 @@ Usa `rem` (1rem = 16px).
 |---|---|---|---|
 | Principal | Verde salvia oscuro | #3F5E4A | Botones principales, enlaces, logo |
 | Secundario | Arena | #EDE4D3 | Fondos de secciones, tarjetas |
-| Acento | Terracota | #C0643A | Etiquetas de oferta, contador del carrito |
+| Acento | Terracota (color greda) | #C0643A | Etiquetas de oferta, contador del carrito |
 | Fondo | Crema | #FBF8F2 | Fondo general |
 | Texto | Carbón | #2B2B28 | Textos y títulos |
 | Texto suave | Gris cálido | #6B675E | Bajadas, textos secundarios |
@@ -106,10 +106,11 @@ Usa `rem` (1rem = 16px).
 
 ## Justificación
 
-Los tonos tierra y verde salvia vienen directo del moodboard (papel, madera,
-hojas secas) y transmiten lo natural y artesanal. El fondo crema evita el
-blanco clínico. Fraunces le da calidez a los títulos, e Inter asegura que
-Camila pueda leer la lista de ingredientes sin esfuerzo en su celular.
+El verde salvia viene de las hojas del moodboard, el terracota de los
+maceteros de greda y el arena de la tierra y la madera: juntos transmiten lo
+natural y vivo. El fondo crema evita el blanco frío. Fraunces le da calidez a
+los títulos, e Inter asegura que Camila pueda leer las guías de cuidado y de
+uso sin esfuerzo en su celular.
 ```
 
 Fíjate en la última fila: el terracota no alcanza 4.5:1, así que en Brote solo se usa para etiquetas con texto grande en negrita o para íconos, nunca para párrafos. Verificar el contraste no es solo aprobar o reprobar un color: te dice **dónde** puedes usarlo.

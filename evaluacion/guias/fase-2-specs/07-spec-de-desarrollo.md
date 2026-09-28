@@ -58,7 +58,7 @@ Son afirmaciones que se pueden responder con **sí o no**. Salen de:
 ## 1. Estructura de archivos
 
 ```text
-brote-cosmetica/
+brote-jardineria/
 ├── index.html          ← landing
 ├── tienda.html
 ├── producto.html
@@ -155,8 +155,8 @@ brote-cosmetica/
 
 **Funcionalidades**
 - [ ] La landing tiene un formulario de correo con el texto de la oferta.
-- [ ] La tienda tiene buscador, chips de categoría y filtro por tipo de piel.
-- [ ] La ficha de producto muestra ingredientes, selector de tamaño y botón
+- [ ] La tienda tiene buscador, chips de categoría y filtro por tipo de planta.
+- [ ] La ficha de producto muestra la guía de uso, selector de formato y botón
       para agregar al carrito.
 - [ ] El artículo tiene botones para compartir y una sección de comentarios.
 

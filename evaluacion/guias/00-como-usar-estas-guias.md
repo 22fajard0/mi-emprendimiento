@@ -16,7 +16,7 @@ Cada guía tiene la misma estructura:
 
 Para que veas cómo se conecta cada paso con el siguiente, todas las guías usan el mismo emprendimiento ficticio:
 
-> **Brote** — cosmética natural hecha a mano en Valparaíso: jabones, shampoo sólido, bálsamos y cremas para piel sensible. Vende por Instagram y en ferias, y quiere empezar a vender online.
+> **Brote** — tienda de jardinería en Santiago: sustratos, fertilizantes, fitosanitarios, herramientas e insumos como maceteros y guías de plantas. Vende en su local de barrio y por Instagram, y quiere empezar a vender online.
 
 No copies el ejemplo: úsalo para entender qué se espera y aplícalo a tu emprendimiento.
 

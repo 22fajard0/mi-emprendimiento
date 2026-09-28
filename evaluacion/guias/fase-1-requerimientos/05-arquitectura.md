@@ -43,22 +43,24 @@ Puedes hacerlo como diagrama de texto dentro del Markdown, o en Whimsical y pega
 
 ### 5. Nombra las secciones como las buscaría tu proto-persona
 
-"Tienda" o "Productos" se entiende mejor que "Catálogo 2026". "Rutinas" se entiende mejor que "Contenidos".
+"Tienda" o "Productos" se entiende mejor que "Catálogo 2026". "Cuidados básicos" se entiende mejor que "Contenidos".
 
 ## Ejemplo
 
 ```text
 Inicio (landing)
 ├── Tienda
-│   ├── Categoría: Rostro
-│   ├── Categoría: Cabello
-│   ├── Categoría: Cuerpo
+│   ├── Categoría: Sustratos
+│   ├── Categoría: Fertilizantes
+│   ├── Categoría: Plagas y enfermedades
+│   ├── Categoría: Herramientas
+│   ├── Categoría: Insumos
 │   ├── Ficha de producto
 │   └── Carrito
 ├── Blog
-│   ├── Categoría: Rutinas
-│   ├── Categoría: Ingredientes
-│   ├── Categoría: Vida sustentable
+│   ├── Categoría: Cuidados básicos
+│   ├── Categoría: Plagas y enfermedades
+│   ├── Categoría: Decoración con plantas
 │   └── Artículo
 ├── Nosotros
 ├── Contacto

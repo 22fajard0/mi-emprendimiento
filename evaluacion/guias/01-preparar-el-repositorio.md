@@ -36,7 +36,7 @@ Cada plantilla de `docs/` tiene los títulos de las secciones que debes completa
 1. Inicia sesión en GitHub y entra a [github.com/carocromatica/mi-emprendimiento](https://github.com/carocromatica/mi-emprendimiento).
 2. Haz clic en el botón **Fork** (arriba a la derecha).
 3. En **Owner**, elige tu cuenta.
-4. En **Repository name**, puedes dejar `mi-emprendimiento` o cambiarlo por el nombre de tu emprendimiento, en minúsculas y con guiones (por ejemplo, `brote-cosmetica`).
+4. En **Repository name**, puedes dejar `mi-emprendimiento` o cambiarlo por el nombre de tu emprendimiento, en minúsculas y con guiones (por ejemplo, `brote-jardineria`).
 5. Haz clic en **Create fork**.
 
 Ahora tienes tu copia en `github.com/tu-usuario/mi-emprendimiento` (o el nombre que elegiste). **Revisa que la URL tenga tu usuario**: ese es tu repositorio.
@@ -82,7 +82,7 @@ Es obligatoria. Anota qué herramientas usaste y **para qué**, y qué cambiaste
 ## Uso de IA
 
 - **Claude:** generé un primer borrador de la proto-persona. Cambié la edad,
-  el horario de uso y las frustraciones según lo que veo en mis clientas de ferias.
+  el horario de uso y las frustraciones según lo que me preguntan los clientes del local.
 - **Stitch:** generé el prototipo de la tienda a partir de mi spec de diseño.
 - **Antigravity:** convertí el prototipo a HTML y CSS.
 ```

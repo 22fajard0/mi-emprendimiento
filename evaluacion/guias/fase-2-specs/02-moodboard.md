@@ -59,15 +59,15 @@ Configura el tablero para que **cualquiera con el enlace pueda verlo**. Abre el 
 
 ## Palabras clave
 
-Natural · cálido · simple · honesto · artesanal
+Natural · fresco · cálido · simple · vivo
 
 ## Qué sensación buscamos
 
-Queremos que Brote se sienta como una marca hecha a mano y transparente:
-tonos tierra y verdes suaves, fotografías con luz natural y texturas de papel
-y madera. Camila desconfía de las marcas que esconden ingredientes; un estilo
-simple y honesto, con mucho espacio en blanco y fotos reales del producto,
-le transmite que no hay nada que ocultar.
+Queremos que Brote se sienta como un rincón verde y tranquilo: mucha luz
+natural, hojas, maceteros de greda, tierra y madera. Camila quiere una casa
+bonita con plantas, pero le frustra que se le mueran; un estilo simple, con
+fotos reales de plantas sanas en departamentos, le muestra lo que puede lograr
+y le transmite que cuidar plantas no es complicado.
 ```
 
 ## Cómo usar la IA

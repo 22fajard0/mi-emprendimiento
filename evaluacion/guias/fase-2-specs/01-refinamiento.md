@@ -30,7 +30,7 @@ Estos cambios no cuentan como atraso de la Fase 1: se evalúan en la Fase 2.
 
    ```bash
    git commit -m "docs: concreta frustraciones de la proto-persona"
-   git commit -m "docs: especifica filtros de la tienda por tipo de piel"
+   git commit -m "docs: especifica filtros de la tienda por tipo de planta"
    git commit -m "docs: agrega política de privacidad al mapa de sitio"
    ```
 

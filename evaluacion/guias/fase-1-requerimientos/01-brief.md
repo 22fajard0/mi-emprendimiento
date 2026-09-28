@@ -54,28 +54,28 @@ Busca marcas de tu rubro (chilenas o extranjeras) que tengan un buen sitio web. 
 
 ## El emprendimiento
 
-**Brote** es un emprendimiento **ficticio** de cosmética natural hecha a mano en
-Valparaíso. Vende jabones, shampoo sólido, bálsamos y cremas para piel sensible.
-Hoy vende por Instagram y en ferias de fin de semana.
+**Brote** es un emprendimiento **ficticio** de jardinería en Santiago. Vende
+sustratos, fertilizantes, fitosanitarios, herramientas e insumos de jardinería
+(maceteros, guías de plantas). Hoy vende en su local de barrio y por Instagram.
 
 ## Propuesta de valor
 
-Ayudamos a personas con piel sensible a cuidarse sin irritaciones gracias a
-fórmulas con máximo 7 ingredientes, todos declarados en la etiqueta y
-testeados en pieles reactivas.
+Ayudamos a personas que están empezando con plantas a mantenerlas vivas y sanas
+gracias a productos seleccionados para cada tipo de planta y guías de cuidado
+simples, escritas sin lenguaje técnico.
 
 ## Objetivo del sitio
 
 - **Principal:** vender online a clientes de todo Chile.
-- **Secundario:** captar correos de personas interesadas para enviarles
-  lanzamientos y descuentos.
+- **Secundario:** captar correos de personas interesadas para enviarles guías
+  de cuidado por temporada y descuentos.
 
 ## Referentes
 
 | Marca | Qué hace bien |
 |---|---|
-| Marca de cosmética natural A | Muestra los ingredientes de cada producto con íconos fáciles de leer |
-| Marca de cosmética natural B | Tiene un blog con rutinas de cuidado que enlazan a los productos |
+| Tienda de jardinería A | Cada producto indica para qué plantas sirve y cómo usarlo |
+| Vivero online B | Tiene un blog de cuidados que enlaza a los productos que se necesitan |
 ```
 
 ## Cómo usar la IA

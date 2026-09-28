@@ -31,7 +31,7 @@ Lo más importante para tu proto-persona va arriba y más grande. Pregúntate en
 
 ### 4. Usa contenido real (o casi)
 
-En vez de "Lorem ipsum", escribe los títulos y textos reales: "Shampoo sólido de avena", "$7.990". Así descubres si el espacio alcanza y si el mensaje se entiende.
+En vez de "Lorem ipsum", escribe los títulos y textos reales: "Sustrato para plantas de interior 10 L", "$7.990". Así descubres si el espacio alcanza y si el mensaje se entiende.
 
 ### 5. Conecta las pantallas
 
@@ -50,14 +50,14 @@ Wireframe de la tienda de Brote, en texto:
 │ [NAVBAR] Logo · Tienda · Blog · 🔍 · 🛒(2)   │
 ├──────────────────────────────────────────────┤
 │ Tienda                                        │
-│ [Buscar productos o ingredientes...]          │
-│ (Todos) (Rostro) (Cabello) (Cuerpo)           │
+│ [Buscar productos o plantas...]               │
+│ (Todos) (Sustratos) (Fertilizantes) (Más ▾)   │
 ├───────────┬──────────────────────────────────┤
 │ FILTROS   │ [CARD]     [CARD]     [CARD]     │
-│ Tipo piel │ imagen     imagen     imagen     │
-│ □ Sensible│ Nombre     Nombre     Nombre     │
-│ □ Grasa   │ $7.990     $5.490     $9.990     │
-│ □ Seca    │ [Ver]      [Ver]      [Ver]      │
+│ Planta    │ imagen     imagen     imagen     │
+│ □ Interior│ Nombre     Nombre     Nombre     │
+│ □ Exterior│ $7.990     $5.490     $9.990     │
+│ □ Huerto  │ [Ver]      [Ver]      [Ver]      │
 │ Precio    │                                  │
 │ ───●───── │ [CARD]     [CARD]     [CARD]     │
 ├───────────┴──────────────────────────────────┤

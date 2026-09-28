@@ -78,7 +78,7 @@ En 5 a 10 líneas, responde:
 | No hay scroll horizontal en 375 px | ❌ → ✅ | La imagen del hero tenía ancho fijo; la cambié a max-width: 100% |
 | Todas las imágenes tienen alt | ❌ → ✅ | Faltaba en 4 imágenes del blog |
 | Todos los colores salen de las variables | ❌ → ✅ | Stitch traía colores escritos a mano; los reemplacé por variables |
-| El filtro por tipo de piel funciona | ❌ | Es un prototipo visual, como se declaró en 04-tecnologias.md |
+| El filtro por tipo de planta funciona | ❌ | Es un prototipo visual, como se declaró en 04-tecnologias.md |
 
 ## User flows
 
@@ -91,14 +91,15 @@ En 5 a 10 líneas, responde:
 
 El objetivo del brief era vender online a clientes de todo Chile, y el sitio
 permite llegar al carrito en 4 clics desde Instagram. La frustración principal
-de Camila era no saber qué ingredientes tiene un producto: la ficha muestra la
-lista completa con íconos, y la tienda permite buscar por ingrediente. Para su
-miedo a un despacho caro, el carrito tiene calculadora por comuna.
+de Camila era que se le mueren las plantas sin saber por qué: el blog tiene
+guías de cuidado, cada ficha explica para qué plantas sirve el producto y cómo
+usarlo, y el diagnóstico por síntoma la lleva de "hojas amarillas" a la
+solución. Para su miedo a un despacho caro, el carrito tiene calculadora por comuna.
 
 Lo que cambió: en la Fase 1 pensamos en una sección de testimonios en la
 landing, pero en los wireframes vimos que alargaba mucho la página en el
-celular; la reemplazamos por reseñas dentro de cada ficha de producto, donde
-Camila las necesita para decidir.
+celular; la reemplazamos por una sección "Plantas fáciles para empezar", que
+responde mejor a su motivación de tener una casa bonita con plantas.
 ```
 
 ## Errores comunes

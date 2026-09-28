@@ -10,9 +10,9 @@ La idea de Markdown es que el texto **se pueda leer bien incluso sin formato**. 
 Lo que escribes (texto plano)        Lo que se ve (texto con formato)
 ─────────────────────────────        ────────────────────────────────
 # Mi emprendimiento             →    Mi emprendimiento   (título grande)
-Vendo **jabones** naturales     →    Vendo jabones naturales   ("jabones" en negrita)
-- Rostro                        →    • Rostro
-- Cabello                       →    • Cabello
+Vendo **sustratos** y abonos    →    Vendo sustratos y abonos  ("sustratos" en negrita)
+- Sustratos                     →    • Sustratos
+- Herramientas                  →    • Herramientas
 ```
 
 ## Por qué lo usamos en este proyecto
@@ -86,20 +86,20 @@ Los símbolos van **pegados** al texto: `** texto **` no funciona.
 Un guion y un espacio al comienzo de la línea crean una lista. Para una sublista, deja **dos o cuatro espacios** antes del guion.
 
 ```markdown
-- Rostro
-- Cabello
-  - Shampoo sólido
-  - Acondicionador sólido
-- Cuerpo
+- Sustratos
+- Herramientas
+  - Tijera de podar
+  - Pala de mano
+- Insumos
 ```
 
 Se ve así:
 
-- Rostro
-- Cabello
-  - Shampoo sólido
-  - Acondicionador sólido
-- Cuerpo
+- Sustratos
+- Herramientas
+  - Tijera de podar
+  - Pala de mano
+- Insumos
 
 También funcionan `*` y `+`, pero usa siempre el mismo símbolo en todo el documento.
 
@@ -171,12 +171,12 @@ Para tus documentos, guarda las imágenes en `docs/img/` y enlázalas como `img/
 El `>` al comienzo de la línea crea un bloque destacado. Lo usamos para frases, citas y notas importantes.
 
 ```markdown
-> "Si no sé qué tiene, no me lo echo en la cara."
+> "Compro plantas preciosas y a los dos meses se me mueren."
 ```
 
 Se ve así:
 
-> "Si no sé qué tiene, no me lo echo en la cara."
+> "Compro plantas preciosas y a los dos meses se me mueren."
 
 ### Código en línea: `` ` ``
 
@@ -279,7 +279,7 @@ Se ve así: \*Esto no queda en cursiva\*
 | `**texto**` | Negrita | `**Imprescindible**` |
 | `*texto*` | Cursiva | `*hover*` |
 | `~~texto~~` | Tachado | `~~Testimonios~~` |
-| `-` | Lista con viñetas | `- Rostro` |
+| `-` | Lista con viñetas | `- Sustratos` |
 | `1.` | Lista numerada | `1. Landing` |
 | `- [ ]` / `- [x]` | Lista de tareas | `- [ ] Paleta` |
 | `[texto](url)` | Enlace | `[Brief](01-brief.md)` |

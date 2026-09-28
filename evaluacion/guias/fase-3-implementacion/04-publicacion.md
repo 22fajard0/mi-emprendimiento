@@ -55,7 +55,7 @@ Los errores más comunes aparecen recién al publicar:
 ```markdown
 ## Sitio publicado
 
-https://tu-usuario.github.io/brote-cosmetica/
+https://tu-usuario.github.io/brote-jardineria/
 ```
 
 Haz el último commit antes del **miércoles 14 de octubre a las 23:59**.

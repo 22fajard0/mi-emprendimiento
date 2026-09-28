@@ -10,9 +10,9 @@ Las funcionalidades conectan a tu proto-persona con el sitio:
 
 ```text
 Proto-persona → Objetivo → Funcionalidad → (más adelante) Componente
-Camila         → Saber si le sirve para piel sensible
-               → Filtrar productos por tipo de piel
-               → Filtro de categorías en la tienda
+Camila         → Saber qué productos sirven para sus plantas
+               → Filtrar productos por tipo de planta
+               → Filtro de la tienda
 ```
 
 Si una funcionalidad no responde a ningún objetivo de tu proto-persona, probablemente no hace falta.
@@ -53,7 +53,7 @@ Redáctala siempre como **"El usuario debe poder…"**. Esto te obliga a describ
 |---|---|
 | Un botón verde grande arriba | El usuario debe poder iniciar la compra desde cualquier página |
 | Un pop-up con descuento | El usuario debe poder dejar su correo a cambio de un descuento |
-| Íconos de hojitas | El usuario debe poder ver los ingredientes de cada producto |
+| Íconos de hojitas | El usuario debe poder ver para qué plantas sirve cada producto |
 
 El "cómo se ve" lo decides en la Fase 2.
 
@@ -61,7 +61,7 @@ El "cómo se ve" lo decides en la Fase 2.
 
 ### 4. Agrega al menos 5 funcionalidades propias
 
-Piensa en lo que hace distinto a tu rubro. Algunas ideas: suscribirse al newsletter, calcular el costo de despacho, guardar favoritos, ver reseñas, ver productos relacionados, consultar por WhatsApp, guía de tallas, ingredientes o información nutricional, punto de venta más cercano.
+Piensa en lo que hace distinto a tu rubro. Algunas ideas: suscribirse al newsletter, calcular el costo de despacho, guardar favoritos, ver reseñas, ver productos relacionados, consultar por WhatsApp, guía de tallas, ingredientes o información nutricional, guías de uso o de cuidado, punto de venta más cercano.
 
 ### 5. Prioriza
 
@@ -77,19 +77,19 @@ Las funcionalidades base son, en general, imprescindibles.
 
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
 |---|---|---|---|---|
-| Camila | Probar la marca sin arriesgar mucho | El usuario debe poder dejar su correo a cambio de un 10 % de descuento en su primera compra | Base (landing) | Imprescindible |
-| Camila | Aprender a armar una rutina simple | El usuario debe poder navegar los artículos por categoría (rutinas, ingredientes, sustentabilidad) | Base (blog) | Imprescindible |
-| Camila | Resolver dudas sobre un artículo | El usuario debe poder comentar un artículo | Base (blog) | Deseable |
-| Camila | Recomendar un artículo a una amiga | El usuario debe poder compartir un artículo por WhatsApp e Instagram | Base (blog) | Deseable |
-| Camila | Encontrar rápido un producto que ya conoce | El usuario debe poder buscar productos por nombre o ingrediente | Base (tienda) | Imprescindible |
-| Camila | Saber si le sirve para piel sensible | El usuario debe poder filtrar productos por tipo de piel y por categoría | Base (tienda) | Imprescindible |
-| Camila | Comprar el formato que necesita | El usuario debe poder ver el detalle de un producto, elegir su tamaño y agregarlo al carrito | Base (tienda) | Imprescindible |
-| Camila | Saber qué se está echando en la piel | El usuario debe poder ver la lista completa de ingredientes de cada producto | Propia | Imprescindible |
+| Camila | Aprender a cuidar sus plantas | El usuario debe poder dejar su correo a cambio de una guía gratuita de cuidados de plantas de interior y un 10 % de descuento | Base (landing) | Imprescindible |
+| Camila | Encontrar consejos sobre lo que le preocupa | El usuario debe poder navegar los artículos por categoría (cuidados básicos, plagas y enfermedades, decoración con plantas) | Base (blog) | Imprescindible |
+| Camila | Resolver una duda sobre su planta | El usuario debe poder comentar un artículo | Base (blog) | Deseable |
+| Camila | Recomendar un consejo a una amiga | El usuario debe poder compartir un artículo por WhatsApp e Instagram | Base (blog) | Deseable |
+| Camila | Encontrar rápido lo que necesita su planta | El usuario debe poder buscar productos por nombre o por planta ("monstera", "suculenta") | Base (tienda) | Imprescindible |
+| Camila | Saber qué productos sirven para sus plantas | El usuario debe poder filtrar productos por categoría y por tipo de planta (interior, exterior, suculentas, huerto) | Base (tienda) | Imprescindible |
+| Camila | Comprar el formato que necesita | El usuario debe poder ver el detalle de un producto, elegir su formato (5 L, 10 L, 20 L) y agregarlo al carrito | Base (tienda) | Imprescindible |
+| Camila | Entender para qué sirve un producto | El usuario debe poder ver para qué plantas sirve cada producto y cómo usarlo, en lenguaje simple | Propia | Imprescindible |
 | Camila | No llevarse sorpresas en el precio | El usuario debe poder calcular el costo de despacho antes de pagar | Propia | Imprescindible |
-| Camila | Confiar en un producto nuevo | El usuario debe poder leer reseñas de otras clientas | Propia | Deseable |
-| Camila | Comprar sin crear una cuenta | El usuario debe poder comprar como invitado | Propia | Deseable |
+| Camila | Saber por qué su planta se ve mal | El usuario debe poder elegir un síntoma (hojas amarillas, manchas, plagas) y ver sus causas y los productos recomendados | Propia | Deseable |
+| Camila | Tener todo lo necesario para una planta nueva | El usuario debe poder comprar un kit por tipo de planta (sustrato, fertilizante y macetero) | Propia | Deseable |
 | Camila | Resolver una duda antes de comprar | El usuario debe poder escribir por WhatsApp desde la ficha del producto | Propia | Deseable |
-| Camila | Repetir su compra habitual | El usuario debe poder suscribirse a un envío mensual | Propia | Futuro |
+| Camila | Acordarse de cuidar sus plantas | El usuario debe poder recibir recordatorios de riego y fertilización por correo | Propia | Futuro |
 
 ## Cómo usar la IA
 

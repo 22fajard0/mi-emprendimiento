@@ -79,7 +79,7 @@ Si el asistente propone algo distinto de tu spec, **tú decides**: o corriges el
 - **Colores escritos a mano** en el CSS en vez de usar las variables.
 - **Navbar distinta en cada página.**
 - **Enlaces rotos**, sobre todo en el footer.
-- **Imágenes sin `alt`** o con nombres con espacios y tildes (`Foto Jabón.png`).
+- **Imágenes sin `alt`** o con nombres con espacios y tildes (`Foto Macetero Grande.png`).
 - **Todo en un commit al final.**
 - **Agregar librerías o frameworks** que no están en tu spec de tecnologías.
 

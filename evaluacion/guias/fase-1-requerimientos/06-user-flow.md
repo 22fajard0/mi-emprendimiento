@@ -53,13 +53,13 @@ Puedes hacerlo en Whimsical (con cajas y flechas) o como texto. Una notación si
 **Flujo 1: compra**
 
 ```text
-Instagram (publicación del shampoo sólido)
+Instagram (reel de un balcón con plantas)
 → Landing
 → [Clic en "Ver productos"]
 → Tienda
-→ [Filtra por "Cabello" y "Piel sensible"]
-→ Ficha de producto: Shampoo sólido de avena
-→ [Revisa ingredientes y elige tamaño 80 g]
+→ [Filtra por "Sustratos" y "Plantas de interior"]
+→ Ficha de producto: Sustrato para plantas de interior
+→ [Revisa para qué plantas sirve y elige el formato de 10 L]
 ◇ ¿Tiene dudas?
    ├── Sí → [Clic en "Consultar por WhatsApp"] → WhatsApp
    └── No → [Clic en "Agregar al carrito"]
@@ -71,13 +71,13 @@ Instagram (publicación del shampoo sólido)
 **Flujo 2: contenido**
 
 ```text
-Google ("rutina para piel sensible")
-→ Artículo: "Rutina de 3 pasos para piel sensible"
+Google ("hojas amarillas monstera")
+→ Artículo: "Hojas amarillas: 5 causas y cómo solucionarlas"
 → [Lee y hace clic en el producto recomendado]
-→ Ficha de producto: Bálsamo de caléndula
+→ Ficha de producto: Fertilizante líquido para plantas de interior
 ◇ ¿Quiere comprar ahora?
    ├── Sí → [Agregar al carrito] → Carrito
-   └── No → [Vuelve al artículo y deja su correo para el descuento]
+   └── No → [Vuelve al artículo y deja su correo para recibir la guía de cuidados]
           → Fin: lead captado
 ```
 

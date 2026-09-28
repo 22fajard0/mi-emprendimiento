@@ -59,10 +59,11 @@ Toma una captura de cada pantalla y guárdala en `docs/img/`. Copia el link del 
 ## Ejemplo de prompt
 
 ```text
-Contexto: Brote es una marca chilena de cosmética natural para piel
-sensible. El sitio es para Camila, 29 años, que compra desde el celular
-y quiere saber exactamente qué ingredientes tiene cada producto.
-Estilo: natural, cálido, simple, honesto, artesanal. Mucho espacio en blanco.
+Contexto: Brote es una tienda chilena de jardinería: sustratos,
+fertilizantes, productos contra plagas, herramientas y maceteros.
+El sitio es para Camila, 29 años, que compra desde el celular, quiere
+una casa bonita con plantas y necesita que la guíen para que no se le mueran.
+Estilo: natural, fresco, cálido, simple, vivo. Mucho espacio en blanco.
 Colores: principal #3F5E4A, secundario #EDE4D3, acento #C0643A,
 fondo #FBF8F2, texto #2B2B28.
 Tipografías: Fraunces para títulos, Inter para textos.
@@ -72,18 +73,19 @@ Pantalla: Tienda, versión desktop.
 Componentes en orden:
 1. Navbar: logo, enlaces Tienda / Blog / Nosotros / Contacto, buscador,
    ícono de carrito con contador.
-2. Título "Tienda" y buscador "Buscar productos o ingredientes".
-3. Chips de categoría: Todos, Rostro, Cabello, Cuerpo.
-4. Columna de filtros a la izquierda (tipo de piel, precio) y grilla de
+2. Título "Tienda" y buscador "Buscar productos o plantas".
+3. Chips de categoría: Todos, Sustratos, Fertilizantes, Plagas y
+   enfermedades, Herramientas, Insumos.
+4. Columna de filtros a la izquierda (tipo de planta, precio) y grilla de
    3 columnas de product cards.
-5. Product card: imagen cuadrada, etiqueta "Piel sensible", nombre
+5. Product card: imagen cuadrada, etiqueta de tipo de planta, nombre
    (máx. 2 líneas), precio siempre visible, botón "Ver producto".
 6. Footer con enlaces a preguntas frecuentes, términos, privacidad y redes.
 ```
 
 ## Errores comunes
 
-- **Prompts de una línea** ("hazme una tienda de cosméticos bonita"): Stitch decide todo y el resultado no tiene nada que ver con tus specs.
+- **Prompts de una línea** ("hazme una tienda de jardinería bonita"): Stitch decide todo y el resultado no tiene nada que ver con tus specs.
 - **Aceptar lo primero que genera** sin compararlo con la spec.
 - **Pantallas con estilos distintos entre sí.**
 - **Componentes inventados** por Stitch que no están en tu spec.

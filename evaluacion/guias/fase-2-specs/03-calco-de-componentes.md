@@ -55,13 +55,13 @@ Para cada uno, anota en el Markdown de dónde lo sacaste, qué contiene y qué n
 
 | Componente | Referencia | Qué contiene | Qué necesidad resuelve |
 |---|---|---|---|
-| Navbar | Sitio de marca de cosmética A | Logo, enlaces (Tienda, Blog, Nosotros), buscador, ícono de carrito con contador | Camila encuentra el buscador y el carrito desde cualquier página |
+| Navbar | Sitio de tienda de jardinería A | Logo, enlaces (Tienda, Blog, Nosotros), buscador, ícono de carrito con contador | Camila encuentra el buscador y el carrito desde cualquier página |
 | Hero | Sitio de marca de café B | Título, bajada, botón principal, foto de producto | Entiende en segundos qué vende Brote y llega a la tienda |
 | Formulario de leads | Sitio de marca de ropa C | Título con la oferta, campo de correo, botón, texto de privacidad | Prueba la marca con descuento sin arriesgar mucho |
-| Product card | Sitio de marca de cosmética A | Imagen, nombre, etiqueta "piel sensible", precio, botón "Ver producto" | Ve precio y si le sirve sin entrar a la ficha |
-| Filtros de tienda | Sitio de tienda de deportes D | Chips de categoría y lista de tipo de piel | Encuentra rápido productos para piel sensible |
+| Product card | Sitio de tienda de jardinería A | Imagen, nombre, etiqueta de tipo de planta ("Interior"), precio, botón "Ver producto" | Ve precio y si le sirve a su planta sin entrar a la ficha |
+| Filtros de tienda | Sitio de tienda de deportes D | Chips de categoría y lista de tipo de planta | Encuentra rápido productos para sus plantas de interior |
 | Card de artículo | Blog de revista E | Imagen, categoría, título, tiempo de lectura | Elige qué leer según su interés |
-| Lista de ingredientes | Sitio de marca de cosmética F | Ícono, nombre del ingrediente, para qué sirve | Sabe exactamente qué se echa en la piel |
+| Guía de uso | Sitio de vivero online F | Íconos de plantas compatibles, dosis, frecuencia y modo de uso | Entiende para qué sirve el producto y cómo usarlo sin lenguaje técnico |
 | Resumen del carrito | Sitio de tienda de libros G | Productos, calculadora de despacho por comuna, total, botón | No se lleva sorpresas en el precio final |
 ```
 

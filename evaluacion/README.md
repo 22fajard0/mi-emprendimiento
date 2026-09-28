@@ -177,7 +177,7 @@ Formato sugerido (incluye las base y las propias en la misma tabla):
 
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
 |---|---|---|---|---|
-| Camila | Saber si el producto le sirve para piel sensible | El usuario debe poder filtrar productos por tipo de piel | Base | Imprescindible |
+| Camila | Saber qué productos sirven para sus plantas | El usuario debe poder filtrar productos por tipo de planta | Base | Imprescindible |
 | Camila | Comprar sin sorpresas en el precio final | El usuario debe poder calcular el costo de despacho antes de pagar | Propia | Imprescindible |
 
 ### 4. Tecnologías del proyecto — `docs/04-tecnologias.md`
@@ -205,7 +205,7 @@ Dibuja el recorrido que hace tu **proto-persona principal** para cumplir sus obj
 Indica en cada paso la pantalla y la acción que realiza (y las decisiones, si las hay). Puedes hacerlo en Whimsical o como diagrama de texto:
 
 ```text
-Instagram → Landing → [Ver productos] → Tienda → Filtra por "piel sensible"
+Instagram → Landing → [Ver productos] → Tienda → Filtra por "plantas de interior"
 → Ficha de producto → [Agregar al carrito] → Carrito
 ```
 

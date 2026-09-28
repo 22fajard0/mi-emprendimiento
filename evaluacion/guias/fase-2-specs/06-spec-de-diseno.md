@@ -96,7 +96,7 @@ Escala: 4 · 8 · 16 · 24 · 32 · 48 · 64 px.
   - Disabled: fondo #CFCAC0, texto #6B675E, sin cursor de mano.
 
 ### Product card
-- **Contenido:** imagen cuadrada, etiqueta de tipo de piel, nombre,
+- **Contenido:** imagen cuadrada, etiqueta de tipo de planta, nombre,
   precio, botón secundario "Ver producto".
 - **Reglas:**
   - El precio siempre es visible.
@@ -111,8 +111,8 @@ Escala: 4 · 8 · 16 · 24 · 32 · 48 · 64 px.
 ### Tienda
 1. Navbar
 2. Título "Tienda" + buscador
-3. Chips de categoría (Todos, Rostro, Cabello, Cuerpo)
-4. Columna de filtros (tipo de piel, precio) + grilla de product cards
+3. Chips de categoría (Todos, Sustratos, Fertilizantes, Plagas y enfermedades, Herramientas, Insumos)
+4. Columna de filtros (tipo de planta, precio) + grilla de product cards
 5. Footer
 
 ## 4. Responsive

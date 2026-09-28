@@ -20,7 +20,7 @@ En el blog, además, las categorías son una **estrategia de contenido**: cada u
 1. **Lista todos tus productos** (reales o ficticios).
 2. **Agrúpalos como los buscaría tu proto-persona.** Hay varias formas de agrupar: por tipo de producto, por uso, por parte del cuerpo, por ocasión. Elige la que tenga más sentido para quien compra, no para cómo los fabricas o guardas.
 3. **Revisa que ningún producto quede en tierra de nadie**, y que ninguna categoría tenga un solo producto.
-4. Si necesitas otra forma de agrupar (por ejemplo, tipo de piel o talla), úsala como **filtro**, no como categoría.
+4. Si necesitas otra forma de agrupar (por ejemplo, tipo de planta o talla), úsala como **filtro**, no como categoría.
 
 ### Categorías del blog
 
@@ -35,19 +35,23 @@ En el blog, además, las categorías son una **estrategia de contenido**: cada u
 
 | Categoría | Productos |
 |---|---|
-| Rostro | Crema hidratante de caléndula, bálsamo labial, limpiador facial suave |
-| Cabello | Shampoo sólido de avena, acondicionador sólido, aceite para puntas |
-| Cuerpo | Jabón de avena, jabón de carbón activado, bálsamo corporal |
+| Sustratos | Tierra de hoja, sustrato para plantas de interior, sustrato para suculentas, perlita |
+| Fertilizantes | Humus de lombriz, fertilizante líquido para plantas de interior, fertilizante para floración |
+| Fitosanitarios | Aceite de neem, jabón potásico, fungicida de cobre |
+| Herramientas | Tijera de podar, pala de mano, regadera, pulverizador |
+| Insumos | Maceteros de greda, platos para macetero, guías de plantas impresas, tutores |
 
-Filtros adicionales de la tienda: **tipo de piel** (sensible, grasa, seca) y **precio**.
+Filtros adicionales de la tienda: **tipo de planta** (interior, exterior, suculentas y cactus, huerto) y **precio**.
+
+Fíjate que "Fitosanitarios" es un término técnico: como a Camila le frustra no entender estos nombres, en el sitio la categoría podría llamarse **"Plagas y enfermedades"**. Nombrar como piensa el usuario es parte de la arquitectura de la información.
 
 **Categorías del blog**
 
 | Categoría | Idea de artículo | Necesidad o motivación de Camila | Producto relacionado |
 |---|---|---|---|
-| Rutinas | "Rutina de 3 pasos para piel sensible" | Quiere una rutina simple y que no la irrite | Limpiador facial, crema de caléndula |
-| Ingredientes | "Qué es la caléndula y por qué calma la piel" | Quiere saber qué se echa en la cara | Crema hidratante de caléndula |
-| Vida sustentable | "Por qué cambiarse al shampoo sólido" | Quiere que su rutina sea consciente | Shampoo sólido de avena |
+| Cuidados básicos | "Cuánto regar tus plantas de interior (y por qué se te mueren)" | Le frustra que se le mueran las plantas | Sustrato para plantas de interior, regadera |
+| Plagas y enfermedades | "Hojas amarillas: 5 causas y cómo solucionarlas" | Necesita que la guíen cuando una planta se ve mal | Fertilizante líquido, aceite de neem |
+| Decoración con plantas | "5 plantas fáciles para un departamento con poca luz" | Quiere una casa bonita con plantas | Maceteros de greda, guías de plantas |
 
 ## Cómo usar la IA
 
@@ -63,7 +67,7 @@ Vendo estos productos: [lista]. Mi proto-persona es: [pega].
 
 - **Categorías internas** que no entiende el cliente ("Línea A", "Productos 2026").
 - **Categorías del blog sin conexión** con la proto-persona ("Noticias", "Varios").
-- **Ideas de artículo demasiado generales**: "Cuidado de la piel" es un tema, no un artículo.
+- **Ideas de artículo demasiado generales**: "Cuidado de plantas" es un tema, no un artículo.
 
 ## Checklist
 

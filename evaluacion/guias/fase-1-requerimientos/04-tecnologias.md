@@ -64,7 +64,7 @@ Plazo del proyecto, si hay manual de marca o logo previo, si es solo para escrit
 | Funcionalidad | Estado en esta versión |
 |---|---|
 | Navegación entre landing, blog y tienda | Funcional |
-| Ver detalle de producto e ingredientes | Funcional |
+| Ver detalle de producto y guía de uso | Funcional |
 | Consultar por WhatsApp | Funcional (enlace a wa.me) |
 | Compartir artículo | Funcional (enlaces para compartir) |
 | Formulario de captación de correos | Prototipo visual |
