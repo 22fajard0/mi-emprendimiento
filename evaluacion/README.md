@@ -9,17 +9,17 @@
 |---|---|---|---|
 | 1. Definición de requerimientos | 30 pts | **Lunes 5 de octubre, 23:59** | −15 pts |
 | 2. Construcción de specs | 40 pts | **Lunes 12 de octubre, 23:59** | −20 pts |
-| 3. Implementación de specs y paso a producción | 30 pts | **Miércoles 14 de octubre, 23:59** | −15 pts |
+| 3. Prototipo referencial en Stitch | 30 pts | **Miércoles 14 de octubre, 23:59** | −15 pts |
 
 ---
 
 ## El encargo
 
-Vas a diseñar y construir el sitio web de **tu emprendimiento**. El sitio tiene tres partes:
+Vas a diseñar y prototipar el sitio web de **tu emprendimiento**: definir sus requerimientos, escribir sus specs y generar un **prototipo referencial** en Google Stitch. El sitio tiene tres partes:
 
 1. **Landing page**: la página de entrada, pensada para convertir (que la persona compre, escriba o se suscriba).
 2. **Blog**: artículos que atraen público y le dan contenido a la marca.
-3. **Prototipo de e-commerce**: catálogo, ficha de producto y carrito. Tiene que verse y navegarse como una tienda; si alcanzamos, lo hacemos funcionar.
+3. **E-commerce**: catálogo, ficha de producto y carrito. Tiene que verse y recorrerse como una tienda.
 
 **¿No tienes emprendimiento?** Crea uno ficticio. Algunas ideas de rubro:
 
@@ -30,6 +30,8 @@ Vas a diseñar y construir el sitio web de **tu emprendimiento**. El sitio tiene
 Elige un rubro que conozcas o te guste: vas a trabajar con él varias semanas.
 
 > **La pregunta que guía esta evaluación no es "¿quedó bonito?", sino "¿cumple lo que debía resolver?".** Cada decisión de diseño tiene que poder explicarse a partir de tu proto-persona y tus requerimientos.
+
+> **¿Y el código?** En esta evaluación llegas hasta el prototipo referencial. El paso a código (HTML + CSS publicado en GitHub Pages) viene en la siguiente etapa del curso, a partir de tu prototipo y tu spec de desarrollo. Por eso igual entregas todas las specs.
 
 > 📘 **Guías paso a paso:** cada punto de esta evaluación tiene una guía con explicación, ejemplo, prompt de IA y checklist en la carpeta [`guias/`](guias/00-como-usar-estas-guias.md).
 
@@ -42,7 +44,7 @@ Elige un rubro que conozcas o te guste: vas a trabajar con él varias semanas.
 | Indicador de logro | Criterios que lo evalúan |
 |---|---|
 | **IL 2.1** Selecciona el perfil del cliente usuario para diseñar un prototipo de página web que responda a sus requerimientos. | **Fase 1:** brief, proto-persona, objetivos y funcionalidades, tecnologías, arquitectura de la información, user flow, categorías, entrega en GitHub · **Fase 2:** refinamiento de la Fase 1 |
-| **IL 2.2** Modela un prototipo de página web a partir de metodologías de experiencia de usuario. | **Fase 2:** moodboard, calco de componentes, wireframes, paleta y tipografía, spec de diseño, spec de desarrollo · **Fase 3:** prototipo en Stitch, implementación, responsive, QA, coherencia con brief, proto-persona y user flow, publicación |
+| **IL 2.2** Modela un prototipo de página web a partir de metodologías de experiencia de usuario. | **Fase 2:** moodboard, calco de componentes, wireframes, paleta y tipografía, spec de diseño, spec de desarrollo · **Fase 3:** prototipo en Stitch (desktop y mobile), QA de spec contra prototipo, coherencia con brief, proto-persona y user flow |
 
 El hilo que une ambos indicadores es la **coherencia**: el prototipo final tiene que poder explicarse a partir del brief, la proto-persona y el user flow definidos al inicio.
 
@@ -59,7 +61,7 @@ Las clases son los **martes y miércoles**.
 | Mar 6 y mié 7 oct | Clases | Refinamiento de la Fase 1 con retroalimentación. Moodboard, calco de componentes, paleta y tipografía |
 | Jue 8 a lun 12 oct | Casa | Construcción de las specs de diseño y desarrollo |
 | **Lun 12 oct, 23:59** | Casa | **Entrega Fase 2** |
-| Mar 13 y mié 14 oct | Clases | Prototipo en Stitch, paso a código y publicación |
+| Mar 13 y mié 14 oct | Clases | Prototipo referencial en Stitch y QA |
 | **Mié 14 oct, 23:59** | — | **Entrega Fase 3** |
 
 ---
@@ -72,7 +74,7 @@ Todo el proyecto vive en **un solo repositorio de GitHub**, que creas haciendo u
 - un `README.md` para completar con la portada de tu proyecto,
 - este enunciado y las guías, en la carpeta `evaluacion/`.
 
-Los documentos se escriben en **Markdown**, igual que las specs que vimos en el módulo de Spec-Driven Design. Así, tus specs quedan junto al código que las implementa. La guía [Preparar el repositorio](guias/01-preparar-el-repositorio.md) explica cómo hacer el fork paso a paso.
+Los documentos se escriben en **Markdown**, igual que las specs que vimos en el módulo de Spec-Driven Design. Así, cuando pasemos a código, tus specs van a estar en el mismo repositorio. La guía [Preparar el repositorio](guias/01-preparar-el-repositorio.md) explica cómo hacer el fork paso a paso.
 
 - **Fase 1:** completas los documentos en tu fork y **envías el link de tu fork por AVA** antes del lunes 5 de octubre a las 23:59.
 - **Fases 2 y 3:** no se envía nada nuevo. Se revisa el mismo fork.
@@ -101,17 +103,8 @@ mi-emprendimiento/             ← puedes renombrar tu fork con el nombre de tu 
 │   ├── 08-color-tipografia.md │ Fase 2
 │   ├── 09-spec-diseno.md      │
 │   ├── 10-spec-desarrollo.md  ┘
-│   ├── 11-qa.md               ← Fase 3
-│   └── img/                   ← avatares, capturas, sitemap
-├── index.html                 ┐
-├── blog.html                  │
-├── articulo.html              │
-├── tienda.html                │ Fase 3
-├── producto.html              │
-├── carrito.html               │
-├── css/                       │
-├── img/                       │
-└── stitch/                    ┘ ← código exportado de Stitch (referencia)
+│   ├── 11-qa.md               ← Fase 3: prototipo, QA y coherencia
+│   └── img/                   ← avatares, sitemap y capturas del prototipo
 ```
 
 ### Uso de IA
@@ -186,7 +179,7 @@ Formato sugerido (incluye las base y las propias en la misma tabla):
 
 Declara con qué vas a construir y por qué, y las restricciones del proyecto:
 
-- **Construcción:** HTML + CSS (sin frameworks ni gestor de contenido).
+- **Construcción (en la etapa de código):** HTML + CSS (sin frameworks ni gestor de contenido).
 - **Versionado y publicación:** Git, GitHub y GitHub Pages.
 - **Diseño:** Whimsical (moodboard, componentes y wireframes), Google Stitch (prototipo).
 - **IA y editor:** las herramientas que usarás (Antigravity, Claude Code, etc.).
@@ -266,7 +259,7 @@ El martes 6 y miércoles 7 de octubre revisamos en clases tu Fase 1. Aplica la r
 
 ### 6. Spec de diseño — `DESIGN.md` + `docs/09-spec-diseno.md`
 
-La spec de diseño se escribe para que en la Fase 3 la subas a **Google Stitch** y genere tus pantallas siguiendo tus reglas. Tiene dos partes:
+La spec de diseño se escribe para que en la Fase 3 la subas a **Google Stitch** y genere tu prototipo siguiendo tus reglas. Tiene dos partes:
 
 - **`DESIGN.md`** (en la raíz): tu **mini design system** en el formato [DESIGN.md](https://github.com/google-labs-code/design.md), que Stitch importa directamente.
   - **Tokens:** colores, tipografía, radios, espaciados y componentes con sus estados (normal, hover, active, disabled).
@@ -278,14 +271,14 @@ La spec de diseño se escribe para que en la Fase 3 la subas a **Google Stitch**
 
 Describe **cómo se construye**:
 
-- El **prompt para tu asistente de IA** de la Fase 3, con los archivos que debe leer (`DESIGN.md`, tus specs y el código exportado de Stitch).
+- El **prompt para tu asistente de IA** de la etapa de código, con los archivos que debe leer (`DESIGN.md`, tus specs y el código exportado de Stitch).
 - Estructura de archivos y carpetas del proyecto.
 - Páginas HTML que existirán y cómo se enlazan (según tu mapa de sitio).
 - Estructura semántica de cada página (`header`, `nav`, `main`, `section`, `article`, `footer`).
 - Organización del CSS: variables (`:root`) con los tokens de tu `DESIGN.md`, nombres de clases, breakpoints.
 - Criterios de aceptación: una lista verificable de lo que debe cumplir el sitio para darse por terminado (por ejemplo: "Todas las imágenes tienen `alt`", "En mobile la tienda muestra 1 producto por fila").
 
-Esta spec es la que le entregarás a tu asistente de IA en la Fase 3, junto con tu `DESIGN.md` y el código exportado de Stitch: mientras más clara, mejor resultado.
+En esta evaluación no se implementa: la spec de desarrollo deja listo el paso a código, que haremos en la siguiente etapa del curso con tu asistente de IA, tu `DESIGN.md` y tu prototipo. Mientras más clara, mejor resultado.
 
 ### Rúbrica Fase 2
 
@@ -302,47 +295,47 @@ Esta spec es la que le entregarás a tu asistente de IA en la Fase 3, junto con 
 
 ---
 
-## Fase 3 — Implementación de specs y paso a producción (30 puntos)
+## Fase 3 — Prototipo referencial en Stitch (30 puntos)
 
 **Entrega: miércoles 14 de octubre, 23:59 · Atraso: −15 pts**
 
-### 1. Prototipo en Stitch
+El prototipo es **referencial**: muestra cómo se verá y cómo se recorrerá tu sitio, pero todavía no es código. Sirve para comprobar que tus specs funcionan y como referencia para la etapa de código.
 
-Importa tu `DESIGN.md` en un proyecto de **Google Stitch** y genera las pantallas con los prompts de `docs/09-spec-diseno.md`: landing, tienda, ficha de producto, carrito, blog y artículo, en desktop y mobile. Exporta el código de cada pantalla a la carpeta `stitch/` y pega el link y las capturas en `docs/11-qa.md`.
+### 1. Prototipo en desktop
 
-### 2. Implementación en código
+Importa tu `DESIGN.md` en un proyecto de **Google Stitch** y genera las 6 pantallas con los prompts de `docs/09-spec-diseno.md`: landing, tienda, ficha de producto, carrito, blog y artículo. Todas en el mismo proyecto, para que compartan el design system.
 
-- Pasa el prototipo a **HTML + CSS** con tu asistente de IA, usando el prompt de tu spec de desarrollo, tu `DESIGN.md` y el código exportado de Stitch como referencia.
-- Mínimo: landing, blog con listado y un artículo, tienda con catálogo, ficha de producto y carrito (el carrito puede ser visual, sin lógica de compra).
-- El CSS usa las variables de tu design system y el sitio se adapta a mobile.
+### 2. Versión mobile
 
-### 3. QA: ¿cumplimos la spec? — `docs/11-qa.md`
+Genera la versión mobile de las 6 pantallas con el prompt mobile de tu spec, siguiendo la sección `## Layout` de tu `DESIGN.md`.
 
-Haz la revisión **Spec → Resultado → Gap**: una tabla con cada criterio de aceptación de tu spec de desarrollo, si se cumplió (✅ / ❌) y qué corregiste.
+### 3. QA: ¿el prototipo cumple la spec? — `docs/11-qa.md`
 
-| Criterio de aceptación | Resultado | Corrección |
-|---|---|---|
-| En mobile la tienda muestra 1 producto por fila | ❌ → ✅ | Agregué media query en `tienda.css` |
+Compara cada pantalla con su prompt y con tu `DESIGN.md`, y haz la revisión **Spec → Prototipo → Gap**: qué debía aparecer, qué generó Stitch, qué corregiste (pidiéndole cambios a Stitch o mejorando tu spec).
 
-### 4. Coherencia del prototipo
+| Pantalla | Qué dice la spec | Qué generó Stitch | Corrección |
+|---|---|---|---|
+| Tienda | Fila de 3 kits antes de la grilla | No generó los kits | Agregué "card-kit" al prompt y volví a generar ✅ |
 
-En `docs/11-qa.md`, recorre tu sitio siguiendo los **user flows** de la Fase 1 y explica en pocas líneas cómo el resultado responde al **brief** y a las necesidades y frustraciones de tu **proto-persona principal**. Si algo cambió en el camino, cuenta por qué.
+### 4. Coherencia del prototipo — `docs/11-qa.md`
 
-### 5. Paso a producción
+Recorre el prototipo siguiendo tus **user flows** de la Fase 1: cada paso tiene que tener su pantalla y su botón o enlace. Si Stitch te permite conectar las pantallas en modo prototipo, enlázalas; si no, muestra el recorrido con la secuencia de capturas. Luego explica en pocas líneas cómo el prototipo responde al **brief** y a las necesidades y frustraciones de tu **proto-persona principal**.
 
-- Sitio publicado en **GitHub Pages**, con el link en el `README.md`.
-- Commits descriptivos que muestren el avance de la implementación.
+### 5. Entrega en GitHub
+
+- Link al proyecto de Stitch (abierto para cualquiera con el enlace) en `docs/11-qa.md` y en el `README.md`.
+- Captura de cada pantalla, desktop y mobile, en `docs/img/`, enlazadas en `docs/11-qa.md`.
+- Commits descriptivos del avance.
 
 ### Rúbrica Fase 3
 
 | Criterio | Pts | Logro completo | Logro parcial (50 %) | Logro insuficiente (0) |
 |---|---|---|---|---|
-| **Prototipo en Stitch** | 5 | Todas las pantallas generadas con el `DESIGN.md` importado y los prompts de la spec, con link y capturas. | Faltan pantallas o no se reconoce la spec en el resultado. | Sin prototipo. |
-| **Implementación en HTML + CSS** | 9 | Landing, blog, artículo, tienda, ficha y carrito navegables entre sí, con HTML semántico y fieles a la spec y al design system. | Faltan páginas, hay enlaces rotos o se aleja de la spec. | Sin código o no corresponde a las specs. |
-| **Responsive** | 3 | Se adapta a mobile y desktop sin scroll horizontal ni contenido cortado, según lo definido en la spec. | Problemas de adaptación en algunas páginas. | No se adapta a mobile. |
-| **QA spec vs. resultado** | 5 | Revisa todos los criterios de aceptación y documenta las correcciones realizadas. | Revisión parcial o sin correcciones documentadas. | Sin QA. |
-| **Coherencia con brief, proto-persona y user flow** | 4 | Los user flows se pueden recorrer en el sitio y la reflexión conecta el resultado con el brief y la proto-persona principal. | Algún flujo no se puede completar o la reflexión es superficial. | Sin reflexión o el sitio no responde a lo definido en la Fase 1. |
-| **Publicación en GitHub Pages** | 4 | Sitio accesible en GitHub Pages, link en el `README.md` y commits descriptivos del avance. | Publicado con errores de carga (imágenes, CSS) o commits genéricos. | No publicado. |
+| **Prototipo en desktop** | 10 | Las 6 pantallas generadas en un mismo proyecto con el `DESIGN.md` importado y los prompts de la spec; se reconocen sus colores, tipografías, componentes y textos. | Faltan pantallas o el resultado se aleja de la spec (colores, componentes o textos distintos). | Sin prototipo. |
+| **Versión mobile** | 4 | Las 6 pantallas en mobile, siguiendo la sección Layout del `DESIGN.md`. | Faltan pantallas o no siguen lo definido en Layout. | Sin versión mobile. |
+| **QA spec vs. prototipo** | 7 | Compara cada pantalla con su prompt y el `DESIGN.md`, y documenta las diferencias, las correcciones pedidas a Stitch y las mejoras hechas a las specs. | Revisión parcial o sin correcciones documentadas. | Sin QA. |
+| **Coherencia con brief, proto-persona y user flow** | 5 | Cada paso de los user flows tiene su pantalla y su botón en el prototipo, y la reflexión conecta el resultado con el brief y la proto-persona principal. | A algún flujo le faltan pantallas o botones, o la reflexión es superficial. | Sin reflexión o el prototipo no responde a lo definido en la Fase 1. |
+| **Entrega en GitHub** | 4 | Link al proyecto de Stitch que se puede abrir, capturas de todas las pantallas en `docs/img/` enlazadas en `11-qa.md` y commits descriptivos. | Faltan capturas, el link no se puede abrir o los commits son genéricos. | Sin link ni capturas. |
 | **Total** | **30** | | | |
 
 ---
@@ -368,8 +361,8 @@ En `docs/11-qa.md`, recorre tu sitio siguiendo los **user flows** de la Fase 1 y
 
 **Fase 3 — miércoles 14 de octubre, 23:59**
 
-- [ ] `DESIGN.md` importado en Stitch, código exportado en `stitch/` y link y capturas en `11-qa.md`
-- [ ] Sitio en HTML + CSS con landing, blog y tienda
+- [ ] `DESIGN.md` importado en Stitch y las 6 pantallas generadas en desktop y mobile
+- [ ] Link del proyecto de Stitch (abierto) en `11-qa.md` y en el `README.md`
+- [ ] Capturas de todas las pantallas en `docs/img/`, enlazadas en `11-qa.md`
 - [ ] Tabla de QA completa y reflexión de coherencia
-- [ ] Sitio publicado en GitHub Pages y link en el `README.md`
 - [ ] Commit subido

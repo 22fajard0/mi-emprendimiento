@@ -6,7 +6,7 @@
 
 Si la spec de diseño dice **cómo se ve** el sitio, la **spec de desarrollo** dice **cómo se construye**: qué archivos existen, cómo se enlazan, qué etiquetas HTML se usan y cómo se organiza el CSS.
 
-Es el documento que le vas a entregar a tu asistente de IA (Antigravity, Claude Code) en la Fase 3, junto con tu `DESIGN.md` y el código exportado de Stitch, para pasar el diseño a código. Stitch diseña pantallas, pero no arma un sitio con tus archivos y tus enlaces: eso lo decide esta spec. También es tu lista de control: sus **criterios de aceptación** son los que vas a revisar en el QA.
+Es el documento que le vas a entregar a tu asistente de IA (Antigravity, Claude Code) en la **etapa de código**, junto con tu `DESIGN.md` y tu prototipo de Stitch, para pasar el diseño a código. En esta evaluación no se implementa: la dejas lista para ese momento. Stitch diseña pantallas, pero no arma un sitio con tus archivos y tus enlaces: eso lo decide esta spec. También es tu lista de control: sus **criterios de aceptación** son los que vas a revisar en el QA.
 
 ## Qué entregas
 
@@ -23,7 +23,7 @@ Un documento con 6 partes:
 
 ### 0. Insumos y prompt para el asistente
 
-Al comienzo de la spec, deja escrito el prompt que le vas a dar a tu asistente en la Fase 3. Así, tu spec queda lista para usar:
+Al comienzo de la spec, deja escrito el prompt que le vas a dar a tu asistente en la etapa de código. Así, tu spec queda lista para usar:
 
 ```text
 Lee DESIGN.md, docs/09-spec-diseno.md y docs/10-spec-desarrollo.md.
@@ -202,7 +202,7 @@ Lee docs/05-arquitectura.md (mapa de sitio y user flows),
 docs/03-funcionalidades.md, DESIGN.md y docs/09-spec-diseno.md.
 El sitio se construye solo con HTML y CSS. Escribe en
 docs/10-spec-desarrollo.md una spec de desarrollo con: el prompt para
-el asistente de la Fase 3, estructura de archivos, tabla de navegación
+el asistente de la etapa de código, estructura de archivos, tabla de navegación
 entre páginas, estructura semántica de cada página, variables CSS en
 :root con los tokens de DESIGN.md, convención de clases, breakpoints y
 una lista de criterios de aceptación verificables (que se respondan
@@ -218,7 +218,7 @@ con sí o no).
 
 ## Checklist
 
-- [ ] Prompt para el asistente de la Fase 3
+- [ ] Prompt para el asistente de la etapa de código
 - [ ] Estructura de archivos y carpetas, con `DESIGN.md` y `stitch/`
 - [ ] Tabla de navegación entre páginas, coherente con el user flow
 - [ ] Estructura semántica de cada página

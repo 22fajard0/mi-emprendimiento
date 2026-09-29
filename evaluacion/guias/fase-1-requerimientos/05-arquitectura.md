@@ -6,7 +6,7 @@
 
 La **arquitectura de la información** es la forma en que organizas el contenido del sitio para que las personas encuentren lo que buscan sin pensarlo dos veces. Se representa con un **mapa de sitio** (sitemap): un diagrama en forma de árbol con todas las páginas y cómo se relacionan.
 
-El mapa de sitio es el plano de tu proyecto. **Cada caja del árbol se convierte en una página** en la Fase 3; si una página no está en el mapa, no debería aparecer de sorpresa después.
+El mapa de sitio es el plano de tu proyecto. **Cada caja del árbol se convierte en una pantalla** de tu prototipo en la Fase 3 (y después, en una página de tu sitio); si una página no está en el mapa, no debería aparecer de sorpresa después.
 
 ## Qué entregas
 
@@ -70,7 +70,7 @@ Inicio (landing)
 └── 404
 ```
 
-Fíjate que las categorías de la tienda y del blog **no son páginas distintas**: en la Fase 3 serán la misma página de tienda o de blog, filtrada.
+Fíjate que las categorías de la tienda y del blog **no son páginas distintas**: en el prototipo serán la misma pantalla de tienda o de blog, filtrada.
 
 El mismo mapa de sitio, dibujado como diagrama:
 

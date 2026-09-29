@@ -2,7 +2,7 @@
 
 ## Qué es y para qué sirve
 
-Todo tu proyecto (documentos, specs y código) vive en **un solo repositorio de GitHub**. Así, tus decisiones quedan junto al código que las implementa, y el historial de commits muestra cómo avanzaste.
+Todo tu proyecto (documentos, specs y, más adelante, el código) vive en **un solo repositorio de GitHub**. Así, tus decisiones quedan en un solo lugar, y el historial de commits muestra cómo avanzaste.
 
 No partes desde cero: haces un **fork** del repositorio base [mi-emprendimiento](https://github.com/carocromatica/mi-emprendimiento). Un fork es **una copia de un repositorio en tu propia cuenta de GitHub**: es tuyo, puedes modificarlo todo lo que quieras y tus cambios no afectan al original.
 

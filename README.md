@@ -25,13 +25,13 @@ Incluye landing, blog y prototipo de tienda online.
 - [Spec de diseño](docs/09-spec-diseno.md)
 - [Spec de desarrollo](docs/10-spec-desarrollo.md)
 
-**Fase 3 — Implementación**
+**Fase 3 — Prototipo referencial**
 
-- [QA](docs/11-qa.md)
+- [Prototipo y QA](docs/11-qa.md)
 
-## Sitio publicado
+## Prototipo
 
-[Aquí va el link de GitHub Pages en la Fase 3]
+[Aquí va el link de tu proyecto de Stitch en la Fase 3]
 
 ## Uso de IA
 

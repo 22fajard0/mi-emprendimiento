@@ -47,12 +47,10 @@ No copies el ejemplo: úsalo para entender qué se espera y aplícalo a tu empre
 6. [Spec de diseño](fase-2-specs/06-spec-de-diseno.md): `DESIGN.md` + prompts de pantallas para Stitch
 7. [Spec de desarrollo](fase-2-specs/07-spec-de-desarrollo.md)
 
-### Fase 3 — Implementación de specs y paso a producción (entrega: miércoles 14 de octubre, 23:59)
+### Fase 3 — Prototipo referencial en Stitch (entrega: miércoles 14 de octubre, 23:59)
 
-1. [Prototipo en Stitch](fase-3-implementacion/01-prototipo-en-stitch.md)
-2. [Implementación en HTML + CSS](fase-3-implementacion/02-implementacion.md)
-3. [QA y coherencia](fase-3-implementacion/03-qa-y-coherencia.md)
-4. [Publicación en GitHub Pages](fase-3-implementacion/04-publicacion.md)
+1. [Prototipo en Stitch](fase-3-prototipo/01-prototipo-en-stitch.md)
+2. [QA y coherencia](fase-3-prototipo/02-qa-y-coherencia.md)
 
 ## Una regla para todo el proyecto
 
