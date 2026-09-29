@@ -2,43 +2,86 @@
 
 > Guía: [Spec de diseño](../evaluacion/guias/fase-2-specs/06-spec-de-diseno.md)
 
+La spec de diseño tiene dos partes:
+
+1. **[`DESIGN.md`](../DESIGN.md)** (en la raíz): tu design system, en el formato que Stitch importa.
+2. **Este documento:** tus pantallas, escritas como prompts listos para pegar en Stitch.
+
 **Wireframes en Whimsical:** [pega aquí el link]
 
 > Guía de wireframes: [Wireframes](../evaluacion/guias/fase-2-specs/04-wireframes.md)
 
-## 1. Foundations
+<!-- Captura de los wireframes: ![Wireframes](img/wireframes.png) -->
 
-### Colores y tipografía
+## Pantallas
 
-Ver [08-color-tipografia.md](08-color-tipografia.md).
+<!-- Un prompt por pantalla. Cada uno con: pantalla y dispositivo, objetivo
+de tu proto-persona, componentes de arriba hacia abajo (con los nombres de
+tu DESIGN.md) y textos y datos reales. -->
 
-### Espaciados
+### 1. Landing
 
-### Bordes, radios y sombras
+```text
+Pantalla: Landing de [nombre], versión desktop. Usa el design system del proyecto.
+Objetivo: 
+Componentes, de arriba hacia abajo:
+1. Navbar.
+2. 
+```
 
-## 2. Componentes
+### 2. Tienda
 
-<!-- Para cada componente: contenido, reglas, estilo y estados
-(normal, hover, active, disabled). -->
+```text
+Pantalla: Tienda de [nombre], versión desktop. Usa el design system del proyecto.
+Objetivo: 
+Componentes, de arriba hacia abajo:
+1. Navbar.
+2. 
+```
 
-## 3. Pantallas
+### 3. Ficha de producto
 
-### Landing
+```text
+Pantalla: Ficha de producto de [nombre], versión desktop. Usa el design system del proyecto.
+Objetivo: 
+Componentes, de arriba hacia abajo:
+1. Navbar.
+2. 
+```
 
-### Blog
+### 4. Carrito
 
-### Artículo
+```text
+Pantalla: Carrito de [nombre], versión desktop. Usa el design system del proyecto.
+Objetivo: 
+Componentes, de arriba hacia abajo:
+1. Navbar.
+2. 
+```
 
-### Tienda
+### 5. Blog
 
-### Ficha de producto
+```text
+Pantalla: Blog de [nombre], versión desktop. Usa el design system del proyecto.
+Objetivo: 
+Componentes, de arriba hacia abajo:
+1. Navbar.
+2. 
+```
 
-### Carrito
+### 6. Artículo
 
-## 4. Responsive
+```text
+Pantalla: Artículo del blog de [nombre], versión desktop. Usa el design system del proyecto.
+Objetivo: 
+Componentes, de arriba hacia abajo:
+1. Navbar.
+2. 
+```
 
-<!-- Mobile hasta 767 px · Tablet de 768 a 1023 px · Desktop desde 1024 px -->
+### Versión mobile (para cada pantalla)
 
-| Elemento | Desktop | Tablet | Mobile |
-|---|---|---|---|
-| | | | |
+```text
+Genera la versión mobile (375px de ancho) de esta pantalla siguiendo la
+sección Layout del design system: 
+```
