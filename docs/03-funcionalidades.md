@@ -25,10 +25,10 @@ Prioridad: Imprescindible / Deseable / Futuro. -->
 | | | El usuario debe poder interactuar con un formulario de contacto y datos de la automotora, como la dirección, horarios o ubicación.| Base | |
 | | | El usuario debe poder tener acceso a un cotizador de financiamiento con pie y cuotas estimadas, totalmente gratis.| Base | |
 | | | El usuario debe poder leer un apartado llamado "Quienes somos" con la historia, el equipo y las redes sociales. | Base | |
-| | | | Informe de inspección Fajardo: cada auto muestra un checklist descargable de motor, caja, frenos, carrocería y documentos, con un sello de "Revisado". | |
-| | | | Semáforo de confianza: Indicador visual con tres tipo de colores, verde, amarillo y rojo, con prendas, multas, mantenciones y dueños anteriores, para entender el estado de un vistazo. | |
-| | | | Tasación en 24 horas: El cliente sube datos y fotos de su auto, recibe una oferta de compra, parte de pago o consignación en menos de un día. | |
-| | | | Comparados de autos: Lado a lado de hasta 3 vehículos, con costo estimado de mantención y consumo. | |
-| | | | Agenda online de visita o test drive, con confirmación automática por WhatsApp y recordatorio. | |
-| | | | Garantía visible: Sección que explica que cubre la garantía de 3 meses, con ejemplos reales.| |
-| | | | Alertas personalizadas: El cliente deja lo que busca y le avisamos por WhatsApp o correo cuando entra un auto así. | |
+| | | Informe de inspección Fajardo: cada auto muestra un checklist descargable de motor, caja, frenos, carrocería y documentos, con un sello de "Revisado". | Propia | |
+| | | Semáforo de confianza: Indicador visual con tres tipo de colores, verde, amarillo y rojo, con prendas, multas, mantenciones y dueños anteriores, para entender el estado de un vistazo. | Propia | |
+| | | Tasación en 24 horas: El cliente sube datos y fotos de su auto, recibe una oferta de compra, parte de pago o consignación en menos de un día. | Propia | |
+| | | Comparados de autos: Lado a lado de hasta 3 vehículos, con costo estimado de mantención y consumo.  | Propia | |
+| | | Agenda online de visita o test drive, con confirmación automática por WhatsApp y recordatorio.  | Propia | |
+| | | Garantía visible: Sección que explica que cubre la garantía de 3 meses, con ejemplos reales. | Propia | |
+| | | Alertas personalizadas: El cliente deja lo que busca y le avisamos por WhatsApp o correo cuando entra un auto así. | Propia | |
