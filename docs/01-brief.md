@@ -1,23 +1,23 @@
-# Brief — Piedra Viva
+# Brief — Fajardo Motors V
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Piedra Viva es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
+Fajardo Motors V, es un emprendimiento ligado al mundo automotor, dentro del rubro automotriz, compra y venta de vehículos usados, se dedica a comprar autos usados en buen estado, revisarlos, prepararlos y venderlos con respaldo documentado. También recibe autos en consignación, vende por cuenta del dueño y cobra comision. El cual esta enfocado en las familias y trabajadores de la Region de Valparaiso y alrededores que quieren un auto confiable sin miedo a que los estafen, el cual ofrece servicios de tasación, financiamiento con aliados, gestión de transferencia y postventa basica.
 
 ## Propuesta de valor
 
-Ayudamos a dueños de casa, arquitectos y constructores que buscan revestimientos duraderos a concretar sus proyectos sin complicaciones gracias a la venta directa de productos Budnik junto a un servicio llave en mano de instalación profesional y pulido efecto espejo para baldosas de interior.
+La propuesta de valor es simple: "Compras tranquilo: cada auto con su historial a la vista". Queremos que el cliente se sienta seguro al momento de adquirir un vehiculo, por lo cual damos las seguridades que este necesite. Informes de inspeccion mecanica y de carroceria publicado junto a cada auto, verificación previa de documentos, (prendas, multas, deudas) antes de publicar, diferentes tipos de garantias en el funcionamiento del vehiculo, precios transparentes con comparativas del mercado y en cada venta la transferencia incluida y acompañamiento hasta que el vehiculo queda a nombre del cliente. Asi atacamos directamente a la desconfianza tipica del mercado de los autos usados, donde el comprador normalmente suele ir ciego. 
 
 ## Objetivo del sitio
 
-- **Principal:** Recibir solicitudes de cotización y proyectos para la venta de productos junto con el servicio de instalación/pulido a través de WhatsApp o formulario de contacto.
-- **Secundario:** Posicionar la marca generando confianza al mostrar un catálogo de productos con un portafolio visual de trabajos e instalaciones ya realizadas.
+- **Principal:** Generar contactos calificados. Que cada ficha de auto lleve a una consulta por WhatsApp o a una visita/test drive agendada.
+- **Secundario:** Captar autos para comprar o consignar, con un formulario de tasación online. 
 
 ## Referentes
 
 | Marca | Qué hace bien |
 |---|---|
-| Budnik | Muestra fichas técnicas muy detalladas, formatos de productos y la resistencia específica según el tipo de uso (tráfico alto, interior o exterior). |
-| Baldosas Córdoba | Presenta de forma clara sus proyectos terminados e inspira confianza al mostrar el acabado final del trabajo de instalación y pulido tradicional. |
+| Massu Autos | Se presenta como una automotora de compra y ventas de autos, incluyendo alta gama, con financiamiento y recepción de autos en parte de pago. Es un buen modelo de servicio integral. |
+| Rosselot Usados | Tiene muchas publicaciones de autos en Mercado Libre en Viña del Mar, lo que muestra como usar plataformas online para generar volumen de ventas. |
