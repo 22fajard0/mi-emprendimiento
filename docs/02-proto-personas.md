@@ -4,7 +4,7 @@
 
 ## Proto-persona principal
 
-![Avatar](img/cliente feliz.jpeg)
+![Avatar](img/clientefeliz.jpeg)
 
 **[Rodrigo Vega], [34] años.** [Supervisor de logistica en el puerto de Valparaiso.].
 
