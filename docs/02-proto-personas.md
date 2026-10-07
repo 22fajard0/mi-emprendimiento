@@ -4,7 +4,7 @@
 
 ## Proto-persona principal
 
-<!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/nombre.png) -->
+![Avatar](img/cliente feliz.jpeg)
 
 **[Rodrigo Vega], [34] años.** [Supervisor de logistica en el puerto de Valparaiso.].
 
