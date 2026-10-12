@@ -40,44 +40,31 @@ Inicio (landing)
 ### Flujo 1: compra
 
 ```text
-Inicio (landing)
-   ↓
-Clic en "Ver autos" → Tienda
-   ↓
-Aplica filtros (presupuesto, tipo, año)
-   ↓
-Revisa resultados y elige un auto
-   ↓
-Ficha del auto → ve fotos, informe de inspección y semáforo de confianza
-   ↓
-¿Le sirve el auto?
-   ├── No → vuelve a la tienda o usa el comparador
-   └── Sí → simula el financiamiento (opcional)
-              ↓
-        Elige cómo avanzar:
-        ├── Botón de WhatsApp con mensaje prellenado
-        └── Agendar visita o test drive (formulario)
-              ↓
-        Confirmación y contacto del equipo Fajardo Motors
-              ↓
-        Visita, prueba del auto y cierre de la compra
+`Inicio` → [Clic en "Ver autos"] → `Tienda`
+→ [Aplica filtros de presupuesto, tipo y año] → `Resultados con filtros`
+→ [Elige un auto] → `Ficha del auto`
+→ [Revisa fotos, informe de inspección y semáforo de confianza]
+→ ◇ ¿Le sirve el auto?
+    ├── No → [Vuelve a la tienda o usa el comparador] → `Tienda` / `Comparador de autos`
+    └── Sí → [Simula el financiamiento (opcional)] → `Cotizador de financiamiento`
+        → ◇ ¿Cómo quiere avanzar?
+            ├── WhatsApp → [Clic en el botón de WhatsApp] → `WhatsApp` (mensaje prellenado del auto)
+            └── Visita → [Completa el formulario de visita o test drive] → `Agenda de visita`
+        → `Confirmación` (contacto del equipo Fajardo Motors)
+        → [Visita el local, prueba el auto y cierra la compra]
 
 ```
 
 ### Flujo 2: contenido
 
-```Buscador (Google) → "cómo revisar un auto usado"
-   ↓
-Entra a un artículo del Blog
-   ↓
-Lee el contenido (checklist, consejos, errores comunes)
-   ↓
-Ve un llamado a la acción dentro del artículo
-   ├── "Mira nuestros autos revisados" → Tienda → Flujo 1
-   ├── "Cotiza tu auto en 24 h" → Vende tu auto
-   └── "Habla con nosotros" → WhatsApp
-   ↓
-Si no actúa, sigue leyendo otros artículos relacionados
+```text
+[Busca en Google "cómo revisar un auto usado"] → `Artículo del blog`
+→ [Lee el contenido: checklist, consejos y errores comunes]
+→ ◇ ¿Qué hace al terminar de leer?
+    ├── Quiere ver autos → [Clic en "Mira nuestros autos revisados"] → `Tienda` → continúa en Flujo 1
+    ├── Quiere vender → [Clic en "Cotiza tu auto en 24 h"] → `Vende tu auto`
+    ├── Quiere conversar → [Clic en "Habla con nosotros"] → `WhatsApp`
+    └── Sigue leyendo → [Abre un artículo relacionado] → `Artículo del blog`
 
 ```
 
