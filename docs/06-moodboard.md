@@ -4,7 +4,7 @@
 
 **Tablero en Whimsical:** [https://whimsical.com/duocuc91/moodboard-fajardo-motors-v-WDmcdgHTu9Kdj187jhSME8]
 
-<!-- Captura: guárdala en docs/img/ y enlázala así: ![Moodboard](img/moodboard1.png) -->
+![Moodboard](img/moodboard1.png) -->
 
 ## Palabras clave
 - Confiable | 
