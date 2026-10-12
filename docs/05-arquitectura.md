@@ -87,7 +87,7 @@ Si no actúa, sigue leyendo otros artículos relacionados
 
 ### Categorías de productos
 
-| Categoría | Productos ||
+| Categoría | Productos |
 |---|---|
 | Citycar y hatchback | Autos compactos y económicos para ciudad (ej. Chevrolet Spark, Kia Morning, Suzuki Swift) |
 | Sedán | Autos familiares y de trabajo con buen maletero (ej. Hyundai Accent, Toyota Yaris, Nissan Versa) |
@@ -98,7 +98,7 @@ Si no actúa, sigue leyendo otros artículos relacionados
 
 ### Categorías del blog
 
-| Categoría | Idea de artículo | Necesidad o motivación de la proto-persona | Producto relacionado ||
+| Categoría | Idea de artículo | Necesidad o motivación de la proto-persona | Producto relacionado |
 |---|---|---|---|
 | Comprar un auto usado | Checklist para revisar un auto antes de comprar | Necesita información clara para no comprar un auto con fallas ocultas | Sedán, SUV y crossover (autos con informe de inspección) |
 | Comprar un auto usado | Errores comunes al comprar un auto usado | Quiere evitar fraudes y sentir que hizo una buena compra | Semáforo de confianza e informe de inspección Fajardo |
