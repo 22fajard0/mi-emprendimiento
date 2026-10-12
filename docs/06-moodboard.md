@@ -15,4 +15,4 @@
 
 ## Qué sensación buscamos
 
-<!-- Quiero representar principalmente confianza y seguridad, tenemos que entender que eso es lo principal que buscan los clientes hoy en día a la hora de comprar un carro, la seguridad de su inversión y su dinero, esto lo reflejamos poniendo autos alcanzables, familias felices y la representación del porteño, del puerto, nada mejor que entender las necesidades de una persona local, cuando la persona que te esta vendiendo el auto también es local. -->
+- Quiero representar principalmente confianza y seguridad, tenemos que entender que eso es lo principal que buscan los clientes hoy en día a la hora de comprar un carro, la seguridad de su inversión y su dinero, esto lo reflejamos poniendo autos alcanzables, familias felices y la representación del porteño, del puerto, nada mejor que entender las necesidades de una persona local, cuando la persona que te esta vendiendo el auto también es local.
