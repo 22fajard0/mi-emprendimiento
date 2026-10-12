@@ -1,4 +1,4 @@
-# Spec de desarrollo — [Nombre del emprendimiento]
+# Spec de desarrollo — [Fajardo Motors V]
 
 > Guía: [Spec de desarrollo](../evaluacion/guias/fase-2-specs/07-spec-de-desarrollo.md)
 
@@ -18,6 +18,39 @@ se cumplen y cuáles no.
 ## 1. Estructura de archivos
 
 ```text
+fajardo-motors/
+├── index.html                  (landing)
+├── tienda.html
+├── ficha-producto.html
+├── carrito.html                (Mi selección y visita)
+├── blog.html
+├── articulo.html
+├── contacto.html               (incluye formulario de tasación)
+├── preguntas-frecuentes.html
+├── terminos.html
+├── privacidad.html
+├── 404.html
+├── DESIGN.md
+├── README.md
+├── css/
+│   └── styles.css
+├── img/
+│   ├── logo.svg
+│   ├── favicon.png
+│   ├── autos/                  (fotos de los autos)
+│   └── blog/                   (imágenes de artículos)
+├── files/
+│   └── informe-inspeccion-ejemplo.pdf
+├── stitch/                     (código exportado de Stitch, solo referencia)
+│   ├── landing.html
+│   ├── tienda.html
+│   ├── ficha-producto.html
+│   ├── carrito.html
+│   ├── blog.html
+│   └── articulo.html
+└── docs/
+    ├── 09-spec-diseno.md
+    └── 10-spec-desarrollo.md
 
 ```
 
@@ -25,7 +58,18 @@ se cumplen y cuáles no.
 
 | Desde | Elemento | Lleva a |
 |---|---|---|
-| | | |
+| Todas las páginas (navbar) | Logo “Fajardo Motors” | index.html |
+| Todas las páginas (navbar) | Autos | tienda.html |
+| Todas las páginas (navbar) | Vende tu auto |---|
+| Todas las páginas (navbar) | Financiamiento |---|
+| Todas las páginas (navbar) | Garantia  |---|
+| Todas las páginas (navbar) | Blog |---|
+| Todas las páginas (navbar) | Contacto |---|
+| Todas las páginas (navbar) |  |---|
+|---|---|---|
+|---|---|---|
+|---|---|---|
+
 
 ## 3. Estructura semántica
 
