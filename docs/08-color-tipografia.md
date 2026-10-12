@@ -63,6 +63,6 @@
 ## Justificación
 - La paleta busca que Rodrigo Vega sienta confianza desde el primer vistazo. El azul profundo transmite seriedad, seguridad y respaldo, y el naranja cálido le suma cercanía y marca los botones donde queremos que actúe. El fondo blanco cálido evita la frialdad del blanco puro y mantiene el sitio limpio y transparente, igual que lo que prometemos con el informe de inspección.
 
-Para el semáforo de confianza usamos verde, amarillo y rojo porque son colores universales de estado y se entienden sin leer. Los tonos de texto sobre fondos de color se eligieron por contraste: por eso el naranja lleva texto gris carbón y no blanco, y el verde y el rojo se oscurecieron respecto a la paleta del moodboard para que el texto blanco sea legible.
+- Para el semáforo de confianza usamos verde, amarillo y rojo porque son colores universales de estado y se entienden sin leer. Los tonos de texto sobre fondos de color se eligieron por contraste: por eso el naranja lleva texto gris carbón y no blanco, y el verde y el rojo se oscurecieron respecto a la paleta del moodboard para que el texto blanco sea legible.
 
-Poppins aporta títulos firmes y modernos, con personalidad de marca. Inter está pensada para pantallas y se lee bien en celular, donde llegará gran parte de los clientes. Los tamaños bajan en mobile para que los títulos no ocupen demasiado espacio, y el párrafo mantiene 16 px como mínimo para leer sin hacer zoom.
+- Poppins aporta títulos firmes y modernos, con personalidad de marca. Inter está pensada para pantallas y se lee bien en celular, donde llegará gran parte de los clientes. Los tamaños bajan en mobile para que los títulos no ocupen demasiado espacio, y el párrafo mantiene 16 px como mínimo para leer sin hacer zoom.
