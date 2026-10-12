@@ -15,8 +15,9 @@
 | Editor | Visual Studio Code | Escribir y revisar el código, con extensiones como Live Server para ver los cambios en el navegador al instante. |
 
 ## Qué es funcional y qué es prototipo
+
+| Funcionalidad | Estado en esta versión ||
 |---|---|---|
-| Funcionalidad | Estado en esta versión |
 | Catálogo de vehículos | Funcional (contenido estático) |
 | Buscador y filtros | Prototipo visual |
 | Ficha detallada del auto | Funcional (contenido estático) |
