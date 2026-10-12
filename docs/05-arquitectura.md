@@ -4,7 +4,10 @@
 
 ## Mapa de sitio
 
-<!--Inicio (landing)
+
+
+```text
+Inicio (landing)
 ├── Tienda (catálogo de autos)
 │   ├── Resultados con filtros (precio, marca, año, tipo, transmisión)
 │   ├── Ficha del auto
@@ -27,13 +30,7 @@
 ├── Preguntas frecuentes
 ├── Términos y condiciones
 ├── Política de privacidad
-└── 404 (página no encontrada)--!>
-
-```text
-Inicio (landing)
-├── Tienda
-├── Blog
-└── ...
+└── 404 (página no encontrada)
 ```
 
 ## User flows
@@ -42,7 +39,8 @@ Inicio (landing)
 
 ### Flujo 1: compra
 
-```Inicio (landing)
+```text
+Inicio (landing)
    ↓
 Clic en "Ver autos" → Tienda
    ↓
