@@ -201,7 +201,7 @@ carrito.html: main con section.selection (cada auto como article), aside.visit (
 **Accesibilidad y publicación**
 
 - Todos los HTML tienen lang="es", único y meta description.
-- Cada página tiene un solo <h1> y los niveles de encabezado van en orden.
+- Cada página tiene un solo h1 y los niveles de encabezado van en orden.
 - Todas las imágenes tienen alt descriptivo, y las decorativas tienen alt="".
 - Todos los campos de formulario tienen label asociado.
 - El contraste del texto cumple AA (mínimo 4,5:1).
